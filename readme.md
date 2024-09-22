@@ -16,7 +16,7 @@
 
 3. **実行**
    ```bash
-   python main.py
+   python messenger.py
 
 ## 使い方
 
